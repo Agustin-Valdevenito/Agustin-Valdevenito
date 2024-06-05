@@ -6,17 +6,23 @@
 - 👯 Busco colaborar en distintos proyectos de varias areas donde pueda aplicar mis conocimientos.
 
 ### 📝 Lenguajes
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)]()
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]()
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]()
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Agustin-Valdevenito)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Agustin-Valdevenito)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Agustin-Valdevenito)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Agustin-Valdevenito)
+
 
 ### 💻 IDEs/Editores
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)]()
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/Agustin-Valdevenito)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio)](https://github.com/Agustin-Valdevenito)
+
 
 ### 🗂️ Tecnologías & Frameworks
-[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]()
-[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]()
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]()
+[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Agustin-Valdevenito)
+[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Agustin-Valdevenito)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Agustin-Valdevenito)
+[![DFD](https://img.shields.io/badge/DFD-Flowchart%20editor%20and%20Interpreter-black?style=for-the-badge&logo=freedfd)](https://github.com/Agustin-Valdevenito)
+
 
 
 
