@@ -1,14 +1,9 @@
 <h1 align="center">¡¡Hola a todos!! </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agustin-valdevenito&label=Visitas&color= 000000&style=flat" alt="agustin-valdevenito"/> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropico">< img src="https://github-profile-tropico.vercel.app/?username=agustin-valdevenito" alt="agustin-valdevenito" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gusito_com" target="blank"><img src="https://img.shields.io/twitter/follow/gusito_com?logo=twitter&style=for-the- badge" alt="gusito_com" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Mysql, C y C++**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align ="izquierda">
 <a href="https://twitter.com/gusito_com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- perfil-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gusito_com" height="30" width="40" /></a>
 <a href="https:// instagram.com/gxsito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/instagram.svg" alt="gxsito" height="30" width="40" /></a>
 <a href="https://discord.gg/gusito_com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gusito_com" height=" 30" width="40" /></a>
