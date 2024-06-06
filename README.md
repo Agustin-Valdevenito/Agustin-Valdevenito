@@ -2,7 +2,7 @@
 - Mi nombre es Agustin <br>
 - 🌱 Actualmente estoy aprendiendo Mysql, C y C++.
 <br>
-- 💻Estoy dispuesto a trabajar y colaborar en proyectos de diversas áreas, manteniendo un compromiso constante con el aprendizaje de nuevos lenguajes y perfeccionando mis habilidades. Me entusiasma la oportunidad de contribuir con todos mis conocimientos y capacidades, aportando valor a cada iniciativa en la que participe.
+- 💻Estoy dispuesto a trabajar y colaborar en proyectos de diversas áreas, manteniendo un firme compromiso con el aprendizaje continuo y la mejora de mis habilidades. Me entusiasma la oportunidad de contribuir con mis conocimientos y capacidades, aportando valor a cada iniciativa en la que participe.
 
 ### 📝 Lenguajes
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Agustin-Valdevenito)
