@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡¡Bienvenidos!!</b></h1>
 - Mi nombre es Agustin <br>
-- 🌱 Actualmente estoy aprendiendo Mysql, C y C++.
+- 🌱 Actualmente estoy aprendiendo sql, mysql y C++.
 <br>
 - 💻Estoy dispuesto a trabajar y colaborar en proyectos de diversas áreas, manteniendo un firme compromiso con el aprendizaje continuo y la mejora de mis habilidades. Me entusiasma la oportunidad de contribuir con mis conocimientos y capacidades, aportando valor a cada iniciativa en la que participe.
 
