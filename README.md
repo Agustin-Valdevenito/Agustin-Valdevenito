@@ -31,6 +31,12 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Valdevenito&theme=dark&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+<br>
+  <p align="center">
+  <a href="https://github.com/AngelIsaiSzr">
+    <img src="https://komarev.com/ghpvc/?username=Agustin-Valdevenito&color=red&style=dark" />
+  </a>
+</p>
 
 
 
