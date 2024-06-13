@@ -40,6 +40,6 @@
 <br>
   <br><p align="center">
   <a href="https://github.com/Agustin-Valdevenito">
-    <img src="https://komarev.com/ghpvc/?username=Agustin-Valdevenit&color=red&style=dark" />
+    <img src="https://komarev.com/ghpvc/?username=Agustin-Valdevenito&color=red&style=dark" />
   </a>
 </p>
