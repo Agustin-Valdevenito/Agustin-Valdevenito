@@ -38,6 +38,8 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center"><b>Premios</b></h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Agustin-Valdevenito&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
