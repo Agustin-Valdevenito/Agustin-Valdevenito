@@ -24,8 +24,15 @@
 
 <h1 align="center"><b>Premios</b></h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Agustin-Valdevenito&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Agustin-Valdevenito&theme=onedark&no-bg=true&no-frame=true&margin-w=20)](#)
 
+<br>
+<div align="center">  
+  <a href="https://github.com/Agustin-Valdevenito" title="Go to Source">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Agustin-Valdevenito&theme=dark&background=000000" width="600"/>
+  </a>
+</div>
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustin-valdevenito&show_icons=true&theme=dark&locale=es" alt="agustin-valdevenito" /></p>
  <div align=center>
     <a href="https://github.com/Agustin-Valdevenito" title="Go to Source">
@@ -33,13 +40,8 @@
     </a>
   </div>
 <br>
-<br>
   <br><p align="center">
   <a href="https://github.com/Agustin-Valdevenito">
     <img src="https://komarev.com/ghpvc/?username=Agustin-Valdevenito&color=red&style=dark" />
   </a>
 </p>
-
-
-
-
