@@ -35,9 +35,7 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustin-valdevenito&show_icons=true&theme=dark&locale=es" alt="agustin-valdevenito" /></p>
  <div align=center>
-    <a href="https://github.com/Agustin-Valdevenito" title="Go to Source">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Valdevenito&theme=dark&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Valdevenito&theme=dark&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
 <br>
   <br><p align="center">
