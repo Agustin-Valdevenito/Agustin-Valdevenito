@@ -22,24 +22,24 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Agustin-Valdevenito)
 [![DFD](https://img.shields.io/badge/DFD-Flowchart%20editor%20and%20Interpreter-black?style=for-the-badge&logo=freedfd)](https://github.com/Agustin-Valdevenito)
 
+<h1 align="center"><b>Premios</b></h1>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Agustin-Valdevenito&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustin-valdevenito&show_icons=true&theme=dark&locale=es" alt="agustin-valdevenito" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustin-valdevenito&show_icons=true&theme=dark&locale=es" alt="agustin-valdevenito" /></p>
  <div align=center>
     <a href="https://github.com/Agustin-Valdevenito" title="Go to Source">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Valdevenito&theme=dark&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 <br>
-  <p align="center">
+<br>
+  <br><p align="center">
   <a href="https://github.com/Agustin-Valdevenito">
     <img src="https://komarev.com/ghpvc/?username=Agustin-Valdevenito&color=red&style=dark" />
   </a>
 </p>
 
-<h1 align="center"><b>Premios</b></h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Agustin-Valdevenito&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
