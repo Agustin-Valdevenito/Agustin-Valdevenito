@@ -33,9 +33,9 @@
   </a>
 </div>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustin-valdevenito&show_icons=true&theme=dark&locale=es" alt="agustin-valdevenito" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agustin-valdevenito&show_icons=true&theme=dark&locale=es&bg_color=000" alt="agustin-valdevenito" /></p>
  <div align=center>
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Valdevenito&theme=dark&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Valdevenito&theme=dark&langs_count=20&layout=compact&border_color=e4e2e2&hide_border=true&bg_color=000" />
   </div>
 <br>
   <br><p align="center">
