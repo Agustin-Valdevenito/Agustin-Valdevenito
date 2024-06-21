@@ -22,7 +22,7 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Agustin-Valdevenito)
 [![DFD](https://img.shields.io/badge/DFD-Flowchart%20editor%20and%20Interpreter-black?style=for-the-badge&logo=freedfd)](https://github.com/Agustin-Valdevenito)
 
-<h1 align="center"><b>Premio</b></h1>
+<h1 align="center"><b>Premios</b></h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agustin-Valdevenito&theme=onedark&no-bg=true&no-frame=true&margin-w=20)](#)
 
